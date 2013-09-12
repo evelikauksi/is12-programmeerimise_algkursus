@@ -1,0 +1,6 @@
+print "abc".capitalize()
+print "kodutoo.py" .endswith("py")
+print "123" .zfill(6)
+print "0." + "23" .zfill(6)
+
+
